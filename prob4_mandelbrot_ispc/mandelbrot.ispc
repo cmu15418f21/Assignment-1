@@ -95,8 +95,8 @@ export void mandelbrot_ispc_par2(uniform float x0, uniform float y0,
 }
 
 // TODO: Try different block sizes
-#define BLOCK_WIDTH  500
-#define BLOCK_HEIGHT 500
+#define BLOCK_WIDTH  800
+#define BLOCK_HEIGHT 600
 
 // slightly different kernel to support tasking
 task void mandelbrot_ispc_task(uniform float x0, uniform float y0, 
