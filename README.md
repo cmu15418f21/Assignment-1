@@ -1,8 +1,8 @@
-# CMU 15-418/618, Spring 2019
+# CMU 15-418/618, Fall 2021
 
 # Assignment 1
 
-This is the starter code for Assignment 1 of CMU class 15-418/618, Spring 2019
+This is the starter code for Assignment 1 of CMU class 15-418/618, Fall 2021
 
 Please review the course's policy on [academic
 integrity](http://www.cs.cmu.edu/~418/academicintegrity.html),
